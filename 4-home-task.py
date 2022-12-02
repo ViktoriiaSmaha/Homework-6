@@ -6,4 +6,3 @@ for letter in entered_text:
         result = result + letter
 
 print(result)
-
